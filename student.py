@@ -1,7 +1,7 @@
 import sys
 #checks if coreect number of argument a
 
-if len(sys.argv) ==3;
+if len(sys.argv) ==3:
     script_name=sys.argv[0]
     name= sys.argy[1]
     rollno=sys.argv[2]
